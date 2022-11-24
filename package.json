@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@craco/craco": "^7.0.0",
+    "axios": "^1.2.0",
+    "react-router-dom": "^6.4.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+  }
+}
